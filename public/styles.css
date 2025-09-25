@@ -1,0 +1,100 @@
+html {
+  box-sizing: border-box;
+  font-size: 16px;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+ol, ul {
+    list-style: none;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+:root {
+    --space-unit: 16px;
+    --color-background: oklch(98% .001 264);
+    --color-gridlines: oklch(91.6% .004 264);
+}
+
+html, body {
+    height: 100vh;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  background-color: var(--color-background);
+  font-family: "Ubuntu Mono", monospace;
+  font-optical-sizing: auto;
+  font-weight: normal;
+  color: #333;
+  line-height: 1.5em;
+}
+
+header {
+
+}
+
+h1, h2, h3 {
+    font-size: 1em;
+}
+
+nav {
+  flex: 0 0 62px;
+  border-bottom: 1px solid var(--color-gridlines);
+}
+
+main {
+  flex: 1 0 auto;
+}
+
+footer {
+  flex:  0 0 62px;
+  border-top: 1px solid var(--color-gridlines);
+}
+
+.container {
+  max-width: 640px;
+  height: 100%;
+  border-left: 1px solid var(--color-gridlines);
+  border-right: 1px solid var(--color-gridlines);
+  padding: 0 var(--space-unit);
+  margin: 0 auto;
+}
+
+nav .container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  height: 100%;
+}
+
+main .container {
+  background-color: #fff;
+  padding-top: calc(var(--space-unit) * 4);
+  padding-bottom: calc(var(--space-unit) * 4);
+}
+
+.logo {
+  font-family: 'Coral Pixels', cursive;
+  font-size: 58px;
+  font-weight: 400;
+  line-height: 1;
+}
+
+a[href] {
+    color: #0e53be;
+}
+
+.at::before {
+    content: '@';
+    color: #999;
+}
