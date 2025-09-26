@@ -1,6 +1,7 @@
 ---
 meta:
-    title: Hello World
+    title: Havelaer
+    description: I'm a Freelance Senior Frontend Engineer
 ---
 
 # Hi,
