@@ -12,6 +12,10 @@ I'm a Freelance Senior Frontend Engineer and go by the developer handle 'Havelae
 
 My main skill set is focussed around frontend technologies, particularly [React](https://react.dev) and [TypeScript](https://www.typescriptlang.org). But I also have broad experience across the full-stack spectrum, including Docker, PostgreSQL, Node.js, tRPC, oRPC, GraphQL, GCP, K8S, Playwright, and more.
 
+Currently working on:
+
+- [Hippa!](https://hippa.app): A real-life location-based multiplayer mobile game.
+
 Work experience:
 
 - '20-'25 [Deepdesk](https://deepdesk.com)
