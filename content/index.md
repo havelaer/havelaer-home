@@ -1,14 +1,14 @@
 ---
 meta:
     title: Havelaer
-    description: I'm a Freelance Senior Frontend Engineer
+    description: I'm a Senior Frontend Engineer
 ---
 
 Hi,
 
 My name is Max Meinders and I enjoy building stuff that people like to use.
 
-I'm a Freelance Senior Frontend Engineer and go by the developer handle 'Havelaer'. I'm based in Deventer, The Netherlands.
+I'm a Senior Frontend Engineer and go by the developer handle 'Havelaer'. I'm based in Deventer, The Netherlands.
 
 My main skill set is focussed around frontend technologies, particularly [React](https://react.dev) and [TypeScript](https://www.typescriptlang.org). But I also have broad experience across the full-stack spectrum, including Docker, PostgreSQL, Node.js, tRPC, oRPC, GraphQL, GCP, K8S, Playwright, and more.
 
