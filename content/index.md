@@ -19,9 +19,14 @@ Currently working on:
 Work experience:
 
 - '20-'25 [Deepdesk](https://deepdesk.com)
-- '17-'20 [Ahold](https://ah.nl)
-- '16-'17 [Goudse](https://goudse.nl)
-- '15-'16 [Eneco](https://eneco.nl)
+- '17-'20 [Ahold](https://ah.nl) *
+- '16-'17 [Goudse](https://goudse.nl) *
+- '15-'16 [Eneco](https://eneco.nl) *
+- '15     (6 months of traveling :)
+- '13-'14 [Aer](https://www.aersoftware.nl)
+- '11-'13 [NoProtocol](https://noprotocol.nl)
+
+(*) Freelance projects
 
 Open Source Projects:
 
