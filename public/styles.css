@@ -7,10 +7,6 @@ html {
   box-sizing: inherit;
 }
 
-ol, ul {
-    list-style: none;
-}
-
 img {
     max-width: 100%;
     height: auto;
@@ -20,6 +16,9 @@ img {
     --space-unit: 16px;
     --color-background: oklch(0.96 0.01 0); /* oklch(98% .001 264); */
     --color-gridlines: oklch(91.6% .004 264);
+    --color-text: rgb(40, 25, 80); /* #333; */
+    --color-text-muted: rgba(40, 25, 80, 0.65);
+    --color-accent: #ec7e07;
 }
 
 html, body {
@@ -36,7 +35,7 @@ body {
   font-family: "Ubuntu Mono", monospace;
   font-optical-sizing: auto;
   font-weight: normal;
-  color: #333;
+  color: var(--color-text);
   line-height: 1.5em;
 }
 
@@ -91,11 +90,27 @@ main .container {
   line-height: 1;
 }
 
-a[href] {
+.container ol, .container ul {
+  list-style: none;
+  margin: 0;
+  padding: 0 0 0 1em;
+}
+
+.container a[href] {
     color: #0e53be;
+}
+
+.container em {
+  font-style: normal;
+  color: var(--color-text-muted);
+}
+
+.asterix::before {
+  content: '*';
+  color: var(--color-accent);
 }
 
 .at::before {
     content: '@';
-    color: #ec7e07;
+    color: var(--color-accent);
 }

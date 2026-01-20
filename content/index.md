@@ -18,15 +18,15 @@ Currently working on:
 
 Work experience:
 
-- '20-'25 [Deepdesk](https://deepdesk.com)
-- '17-'20 [Ahold](https://ah.nl) *
-- '16-'17 [Goudse](https://goudse.nl) *
-- '15-'16 [Eneco](https://eneco.nl) *
-- '15     (6 months of traveling :)
-- '13-'14 [Aer](https://www.aersoftware.nl)
-- '11-'13 [NoProtocol](https://noprotocol.nl)
+- '20-'25 [Deepdesk](https://deepdesk.com) *— AI Assist for CX*
+- '17-'20 [AH](https://ah.nl) <span class="asterix"></span> *— Online groceries*
+- '16-'17 [Goudse](https://goudse.nl) <span class="asterix"></span> *— Insurance*
+- '15-'16 [Eneco](https://eneco.nl) <span class="asterix"></span> *— Energy supplier*
+- '15     *(6 months of traveling :)*
+- '13-'14 [Aer](https://www.aersoftware.nl) *— B2B Software*
+- '11-'13 [NoProtocol](https://noprotocol.nl) *— Creative Agency*
 
-(*) Freelance projects
+&nbsp;&nbsp;(<span class="asterix"></span>) Freelance projects
 
 Open Source Projects:
 
