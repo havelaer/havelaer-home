@@ -4,7 +4,7 @@ meta:
     description: I'm a Freelance Senior Frontend Engineer
 ---
 
-# Hi,
+Hi,
 
 My name is Max Meinders and I enjoy building stuff that people like to use.
 
