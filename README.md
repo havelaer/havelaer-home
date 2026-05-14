@@ -1,4 +1,4 @@
-# havelaer-home
+# Havelaer
 
 Personal homepage, built with a minimal static site generator.
 
