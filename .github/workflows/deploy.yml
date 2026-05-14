@@ -30,5 +30,4 @@ jobs:
         run: |
           aws s3 sync build/ s3://havelaer-home/ \
             --endpoint-url https://s3.nl-ams.scw.cloud \
-            --delete \
-            --acl public-read
+            --delete
