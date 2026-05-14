@@ -14,7 +14,7 @@ My main skill set is focussed around frontend technologies, particularly [React]
 
 Work experience:
 
-- '26-Present [Neon](https://neon.nl) _— Open Education Applications_
+- '26-Present [Neon](https://neon.nl) _— Open Education_
 - '20-'25 [Deepdesk](https://deepdesk.com) _— AI Assist for CX_
 - '17-'20 [AH](https://ah.nl) <span class="asterix"></span> _— Online groceries_
 - '16-'17 [Goudse](https://goudse.nl) <span class="asterix"></span> _— Insurance_
