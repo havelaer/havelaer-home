@@ -23,11 +23,11 @@ Work experience:
 - '13-'14 [Aer](https://www.aersoftware.nl) _— B2B Software_
 - '11-'13 [NoProtocol](https://noprotocol.nl) _— Creative Agency_
 
+&nbsp;&nbsp;(<span class="asterix"></span>) Freelance projects
+
 Side project:
 
 - [Hippa!](https://hippa.app): A real-life location-based multiplayer mobile game.
-
-&nbsp;&nbsp;(<span class="asterix"></span>) Freelance projects
 
 Open Source Projects:
 
