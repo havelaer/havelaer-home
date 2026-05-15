@@ -30,6 +30,6 @@ jobs:
           AWS_SECRET_ACCESS_KEY: ${{ secrets.SCW_SECRET_ACCESS_KEY }}
           AWS_DEFAULT_REGION: nl-ams
         run: |
-          aws s3 sync build/ s3://havelaer.nl/ \
+          aws s3 sync build/ s3://havelaer-nl/ \
             --endpoint-url https://s3.nl-ams.scw.cloud \
             --delete
